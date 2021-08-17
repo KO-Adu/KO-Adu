@@ -1,6 +1,6 @@
-### Hey there! My name is Kujo 😁
+## Hey there! My name is Kujo 😁
 
-## Data Science | Analytics | Big Ideas |
+### Data Science | Analytics | Big Ideas |
 
 ## Skills
 - Statistics and Machine Learning: Linear and Logistic Regression, Random Forests, Decision Trees, K-Means clustering.
