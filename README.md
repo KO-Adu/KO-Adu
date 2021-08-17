@@ -1,14 +1,14 @@
-## Hey there! My name is Kujo 😁
+## Hey there! My name is Kujo 😁🤙🏿
 
 ### My interests include:
-- Data Science & Analytics
-- Sports Media
-- Music & Culture 
+- Data Science & Analytics 📈
+- Sports Media 🏀🥊
+- Music & Culture 🥁🎧🎼
 
 ### Technical Skills
-- Statistics and Machine Learning: Linear and Logistic Regression, Random Forests, Decision Trees, K-Means clustering.
-- Programming: Python (pandas, numpy, matplotlib, sklearn, seaborn), Git.
-- Database, Dashboards: SQL (SQLite, MySQL), Power BI.
+- 📊 Statistics and Machine Learning: Linear and Logistic Regression, Random Forests, Decision Trees, K-Means clustering.
+- 💻 Programming: Python (pandas, numpy, matplotlib, sklearn, seaborn), Git.
+- 👨🏿‍💻 Database, Dashboards: SQL (SQLite, MySQL), Power BI.
 
 ### Where to find me:
 [<img align="left" alt="Kujo Adu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
