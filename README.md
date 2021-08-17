@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey there! My name is Kujo 😁
 
-<!--
-**KO-Adu/KO-Adu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Science | Analytics | Big Ideas |
 
-Here are some ideas to get you started:
+## Skills
+- Statistics and Machine Learning: Linear and Logistic Regression, Random Forests, Decision Trees, K-Means clustering.
+- Programming: Python (pandas, numpy, matplotlib, sklearn, seaborn), Git.
+- Database, Dashboards: SQL (SQLite, MySQL), Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where to find me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+</details>
+
+[twitter]: https://twitter.com/kujo_adu
+[instagram]: https://instagram.com/kujo_adu
+[linkedin]: https://linkedin.com/in/kujo-adu
