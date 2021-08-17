@@ -5,7 +5,7 @@
 - Sports Media 🏀🥊
 - Music & Culture 🥁🎧🎼
 
-### Technical Skills
+### My Technical skills (so far):
 - 📊 Statistics and Machine Learning: Linear and Logistic Regression, Random Forests, Decision Trees, K-Means clustering.
 - 💻 Programming: Python (pandas, numpy, matplotlib, sklearn, seaborn), Git.
 - 👨🏿‍💻 Database, Dashboards: SQL (SQLite, MySQL), Power BI.
